@@ -1,0 +1,15 @@
+/home/crissilvafr/Escritorio/Strategy/bin/Debug/net6.0/Strategy
+/home/crissilvafr/Escritorio/Strategy/bin/Debug/net6.0/Strategy.deps.json
+/home/crissilvafr/Escritorio/Strategy/bin/Debug/net6.0/Strategy.runtimeconfig.json
+/home/crissilvafr/Escritorio/Strategy/bin/Debug/net6.0/Strategy.dll
+/home/crissilvafr/Escritorio/Strategy/bin/Debug/net6.0/Strategy.pdb
+/home/crissilvafr/Escritorio/Strategy/obj/Debug/net6.0/Strategy.csproj.AssemblyReference.cache
+/home/crissilvafr/Escritorio/Strategy/obj/Debug/net6.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/home/crissilvafr/Escritorio/Strategy/obj/Debug/net6.0/Strategy.AssemblyInfoInputs.cache
+/home/crissilvafr/Escritorio/Strategy/obj/Debug/net6.0/Strategy.AssemblyInfo.cs
+/home/crissilvafr/Escritorio/Strategy/obj/Debug/net6.0/Strategy.csproj.CoreCompileInputs.cache
+/home/crissilvafr/Escritorio/Strategy/obj/Debug/net6.0/Strategy.dll
+/home/crissilvafr/Escritorio/Strategy/obj/Debug/net6.0/refint/Strategy.dll
+/home/crissilvafr/Escritorio/Strategy/obj/Debug/net6.0/Strategy.pdb
+/home/crissilvafr/Escritorio/Strategy/obj/Debug/net6.0/Strategy.genruntimeconfig.cache
+/home/crissilvafr/Escritorio/Strategy/obj/Debug/net6.0/ref/Strategy.dll
